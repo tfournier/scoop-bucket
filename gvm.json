@@ -1,0 +1,19 @@
+{
+    "version": "0.0.6",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/tfournier/gvm/releases/download/0.0.6/gvm_0.0.6_Windows_i386.tar.gz",
+            "bin": [
+                "gvm.exe"
+            ],
+            "hash": "1106b9df4aa6e11685a9f02a0ae46172420e7cb8284d18a46a3fd2053dbc429b"
+        },
+        "64bit": {
+            "url": "https://github.com/tfournier/gvm/releases/download/0.0.6/gvm_0.0.6_Windows_x86_64.tar.gz",
+            "bin": [
+                "gvm.exe"
+            ],
+            "hash": "0dfa221d1c86a6defc5aaa04316b01fb60f4e6dc70a24384112964c73eb3cdb4"
+        }
+    }
+}
