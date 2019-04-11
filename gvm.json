@@ -1,19 +1,19 @@
 {
-    "version": "0.0.13",
+    "version": "0.0.14",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/tfournier/gvm/releases/download/0.0.13/gvm_Windows_i386.zip",
+            "url": "https://github.com/tfournier/gvm/releases/download/0.0.14/gvm_Windows_i386.zip",
             "bin": [
                 "gvm.exe"
             ],
-            "hash": "ac7402a7a8a11a42bf75b691a8d88c0576ae501027177203bf1e534f34a9c32b"
+            "hash": "a570c64e0869eb0ef662fce4da789287f16ec7bc0fe7978a750a4698591af3e6"
         },
         "64bit": {
-            "url": "https://github.com/tfournier/gvm/releases/download/0.0.13/gvm_Windows_x86_64.zip",
+            "url": "https://github.com/tfournier/gvm/releases/download/0.0.14/gvm_Windows_x86_64.zip",
             "bin": [
                 "gvm.exe"
             ],
-            "hash": "6554743ec13e943075403a69c6e2067c22093c089fbd541a6c869e81c209ae6e"
+            "hash": "00a660cf683953565c924dba1ed3cacafb44684562c01b78074eb35d2c97f64e"
         }
     },
     "description": "GVM will allow you to easily install, use and/or delete Golang versions from the official servers."
